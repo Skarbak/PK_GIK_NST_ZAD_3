@@ -1,0 +1,6 @@
+.custom-button {
+    padding: 15px 30px; /* Zwiększenie rozmiaru przycisku */
+    font-size: 18px; /* Większy tekst */
+    font-family: 'Arial', sans-serif; /* Ładna czcionka */
+    font-weight: bold; /* Pogrubiony tekst */
+}
